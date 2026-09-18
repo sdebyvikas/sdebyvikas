@@ -55,3 +55,13 @@ https://linkedin.com/in/vikas-kumar-mondal-2b3781135
 
 GitHub:
 https://github.com/sdebyvikas
+
+## 📊 GitHub Stats
+
+![Vikas GitHub Stats](https://github-readme-stats.vercel.app/api?username=sdebyvikas&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sdebyvikas&layout=compact)
+
+
+
+
