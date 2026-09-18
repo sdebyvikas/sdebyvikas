@@ -134,12 +134,3 @@ Human Resource Management System with employee lifecycle management, attendance,
 
 ---
 
-## 📈 Current Focus
-
-```text
-Frontend Excellence      ████████████ 95%
-Next.js Development      ████████████ 95%
-Backend Development      ██████████░░ 85%
-System Design            ████████░░░░ 75%
-AI Agents & RAG          █████████░░░ 80%
-DevOps                   ███████░░░░░ 70%
