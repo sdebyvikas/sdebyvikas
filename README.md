@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/bannerImage.jpg" alt="Vikas Kumar Banner" />
+</p>
+
 # Hi, I'm Vikas Kumar 👋
 
 ### Full Stack MERN Developer | React.js | Next.js | Node.js | AI Applications
