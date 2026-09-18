@@ -134,3 +134,10 @@ Human Resource Management System with employee lifecycle management, attendance,
 
 ---
 
+## 🎯 Currently Building
+
+- AI Agents using LangGraph & LangChain
+- Scalable MERN Applications
+- Next.js Enterprise Dashboards
+- Docker & CI/CD Pipelines
+- Vector Search with Qdrant
